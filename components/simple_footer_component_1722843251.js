@@ -17,6 +17,12 @@ Vue.component("simple_footer_component_1722843251", {
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
                         Stay ahead of the curve with real-time analysis of new Ethereum transactions. EtherScan provides detailed insights into incoming transactions, smart contract interactions, and potential security risks. Secure your ETH holdings with our advanced monitoring tools.
                     </div>
+                    </div>
+                </div>
+                <div class="flex justify-center mt-4">
+                    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                        Hello World
+                    </button>
                 </div>
             </div>
         </footer> 
