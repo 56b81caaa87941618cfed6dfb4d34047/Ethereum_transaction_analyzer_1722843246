@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a live transaction feed to display Ethereum transactions as they happen\", \"checked\": true}, {\"feature\": \"Implement a search functionality to find specific transactions by address or hash\", \"checked\": false}, {\"feature\": \"Incorporate a filter option to sort transactions by value, gas fees, or date\", \"checked\": false}, {\"feature\": \"Integrate an analytics dashboard to provide insights on transaction trends and patterns\", \"checked\": true}, {\"feature\": \"Enable notifications for high-value transactions or specific addresses\", \"checked\": false}, {\"feature\": \"Provide a detailed view of transactions including sender, receiver, value, and transaction hash upon clicking a transaction\", \"checked\": true}], \"input_token_count\": 216, \"output_token_count\": 144, \"time_taken\": \"0:00:08.409108\"}",
+        "message_id": "guest05082024073435",
+        "timestamp": "05082024073445",
+        "component_file_name": "simple_footer_component_1722843251",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"In which part of the app do you want the 'Hello World' button to appear?\", \"option1\": \"On the main screen\", \"option2\": \"In the settings menu\"}, {\"question 2\": \"What function should the 'Hello World' button perform when clicked?\", \"option1\": \"Display a 'Hello World' message\", \"option2\": \"Navigate to a new page\"}], \"input_token_count\": 262, \"output_token_count\": 95, \"time_taken\": \"0:00:04.254560\"}",
         "message_id": "guest05082024073435",
